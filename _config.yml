@@ -21,7 +21,7 @@
 title: Audio Devices in 80s and 90s
 email: ocordoba@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A basic websit with pictures of my personal collection 
+  rev2 A basic websit with pictures of my personal collection 
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
@@ -38,7 +38,7 @@ plugins:
 # set minima dark theme
 minima:
   skin: dark
-  
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
