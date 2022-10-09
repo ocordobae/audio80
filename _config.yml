@@ -35,12 +35,11 @@ timezone: America/New_York
 
 # Build settings
 theme: minima
+# theme: jekyll-theme-type-on-strap
 plugins:
   - jekyll-feed
 
-# set minima dark theme
-minima:
-  skin: dark
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
