@@ -35,6 +35,10 @@ timezone: America/New_York
 
 # Build settings
 theme: minima
+minima:
+  skin: dark
+# remote_theme: jekyll/minima
+# theme: dark-minima
 # theme: jekyll-theme-type-on-strap
 plugins:
   - jekyll-feed
